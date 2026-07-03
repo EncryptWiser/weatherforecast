@@ -1,0 +1,10 @@
+{
+  "buildCommand": "cd 'Weather Forecast Landing Page' && npm install && npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": "Weather Forecast Landing Page/dist",
+  "framework": "vite",
+  "public": false,
+  "github": {
+    "autoAlias": true
+  }
+}
